@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rule Engine"
+    id="6a6c149b"
+    documentation="&#xA;A tool to manage business rules and to be used for calculating entitlement using complex formulae. https://www.progress.com/corticon"/>

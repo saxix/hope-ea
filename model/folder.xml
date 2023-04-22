@@ -1,0 +1,25 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HCT-MIS"
+    id="1be9ea84"
+    purpose="HCT MIS is UNICEF's humanitarian cash transfer platform that is being developed. It will be used by country offices, HQ users and on the ground partners (for registration of beneficiaries). The HCT-MIS application looks to provide a unified consolidated reporting for beneficiary data, increase accountability and traceability, grow cash programs while ensuring due diligence, and overall - simplifying a system of complex processes."
+    version="4.6.0">
+  <properties
+      key="devops"
+      value="https://unicef.visualstudio.com/ICTD-HCT-MIS"/>
+  <properties
+      key="Slack"
+      value="https://app.slack.com/client/T025EUUSK/CMSM0S7BN"/>
+  <properties
+      key="Sharepoint Documents"
+      value="https://drive.google.com/drive/u/0/folders/1ECFUsb82eF983KMlcyf0onANl3bs03jK"/>
+  <properties
+      key="Miro Board"
+      value="https://miro.com/app/board/o9J_kwmUdPU=/"/>
+  <properties
+      key="CashAssist Training Site"
+      value="http://cashassist-trn.unhcr.org/"/>
+  <properties
+      key="Code VCS (GitHub)"
+      value="https://github.com/unicef/hct-mis"/>
+</archimate:ArchimateModel>

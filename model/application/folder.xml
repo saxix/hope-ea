@@ -1,0 +1,6 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application"
+    id="d2216193"
+    documentation="The goal is to have separation of the user interfaces (be it mobile / PWA or web application interface) and backend logic.&#xA;The frontend will be a React based application leveraging UNICEF design philosophy that is built on top of Material Design.&#xA;The backend will be a Django and Python application, exposing a GraphQL API that leverages Graphene."
+    type="application"/>

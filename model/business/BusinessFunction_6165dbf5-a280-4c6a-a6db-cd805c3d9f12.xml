@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reconciliation"
+    id="6165dbf5-a280-4c6a-a6db-cd805c3d9f12"
+    documentation="Send a list to FSP, to pay $X to this list of Y beneficiaries. FSP pays them, sends a list back with duplicates, exception list or payments that did not go through.&#xA;&#xA;It can be automated or manual if bank doesn't have capacity or if low-tech deep field.&#xA;&#xA;This would potentially happen in HCR. Will get read only view of it as a payment record.&#xA;&#xA;If its not a HCR FSP how we do it is tbd, but this has to reach back to CashAssist potentially since the actual reconciliation has to happen in CA."/>
