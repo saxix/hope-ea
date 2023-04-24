@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Service Provider"
+    id="9cd2f79d-6180-4585-b3ed-91490398173e"
+    documentation="Financial Service Providers. These providers are the ones make the final payments to beneficiaries."/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="dfaec70f-3010-4cb7-8369-1a99cd4afe89"
+    documentation="vision push data">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_3e548700.xml#3e548700"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_e01b4445-40ba-4801-aec5-b9d33645a3af.xml#e01b4445-40ba-4801-aec5-b9d33645a3af"/>
+</archimate:AssociationRelationship>

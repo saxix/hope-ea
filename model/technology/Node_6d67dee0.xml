@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CashAssist"
+    id="6d67dee0"
+    documentation="The UNHCR system for cash planning and integrates with the financial gateway. It runs in the cloud on MS Dynamics. Country is called Business Unit in CashAssist."/>
