@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2 pass phone to"
+    id="id-ba636228ef6a47f19430d3a432892bbd">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7308d0e8-716f-4683-abd7-b5dc881a5b8a.xml#7308d0e8-716f-4683-abd7-b5dc881a5b8a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-be7b6871b8c142048b1bdaa0b4c4e92f.xml#id-be7b6871b8c142048b1bdaa0b4c4e92f"/>
+</archimate:ServingRelationship>

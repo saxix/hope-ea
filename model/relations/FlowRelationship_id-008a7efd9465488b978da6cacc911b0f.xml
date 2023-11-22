@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.9 voice message"
+    id="id-008a7efd9465488b978da6cacc911b0f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-00d25e2457be41f78a46e2b96344331a.xml#id-00d25e2457be41f78a46e2b96344331a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7308d0e8-716f-4683-abd7-b5dc881a5b8a.xml#7308d0e8-716f-4683-abd7-b5dc881a5b8a"/>
+</archimate:FlowRelationship>

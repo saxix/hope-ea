@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.3 repeeat recorded message"
+    id="id-85b3a287d48447ab984d5e75edd15243">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-be7b6871b8c142048b1bdaa0b4c4e92f.xml#id-be7b6871b8c142048b1bdaa0b4c4e92f"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-00d25e2457be41f78a46e2b96344331a.xml#id-00d25e2457be41f78a46e2b96344331a"/>
+</archimate:FlowRelationship>
