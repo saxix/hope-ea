@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="send recording"
+    id="id-e5e4d37403164d1b9e71a13561460970">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_28d7c011-88ae-430c-94c2-cb834d797538.xml#28d7c011-88ae-430c-94c2-cb834d797538"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_6c62b950-97ee-4063-afdd-41922a108e17.xml#6c62b950-97ee-4063-afdd-41922a108e17"/>
+</archimate:FlowRelationship>
