@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Populations"
-    id="id-26c31cf7719d4b8fa280cc2a2e5bcd1e">
+    id="id-26c31cf7719d4b8fa280cc2a2e5bcd1e"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e683fa257e73490bb5135fab2fe8fde6">
@@ -61,7 +62,7 @@
       targetConnections="id-13629c15c9344db29fc69acca34c35e7 id-eef1353985df452a8d1ad38aa87edd36">
     <bounds
         x="118"
-        y="408"
+        y="396"
         width="293"
         height="55"/>
     <archimateElement
@@ -91,8 +92,8 @@
           href="CompositionRelationship_id-11d42291d0484d12a47474687ff170f9.xml#id-11d42291d0484d12a47474687ff170f9"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="552"
+        x="118"
+        y="516"
         width="293"
         height="55"/>
     <archimateElement
@@ -126,7 +127,7 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="552"
+        y="516"
         width="217"
         height="55"/>
     <archimateElement

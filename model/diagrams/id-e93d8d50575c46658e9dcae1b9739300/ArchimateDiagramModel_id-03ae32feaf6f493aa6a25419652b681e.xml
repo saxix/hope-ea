@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BeneficiaryRelations"
     id="id-03ae32feaf6f493aa6a25419652b681e"
-    viewpoint="business_process_cooperation">
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2709765d6c514414862c96a3bcb63791"

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beneficiaries"
     id="id-f97ff89955ce440fa88137ecf4740b80"
-    connectionRouterType="2">
+    viewpoint="application_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7f328911f816463fbb456150a68e7d5e"
