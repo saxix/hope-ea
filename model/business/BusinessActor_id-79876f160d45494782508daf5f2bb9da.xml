@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BeneficiaryGroup"
-    id="id-79876f160d45494782508daf5f2bb9da"/>
+    id="id-79876f160d45494782508daf5f2bb9da"
+    documentation="Group Type of Beneficiaries. Es Shool / Household"/>

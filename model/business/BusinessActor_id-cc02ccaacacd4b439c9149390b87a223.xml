@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Household"
-    id="id-cc02ccaacacd4b439c9149390b87a223"/>
+    id="id-cc02ccaacacd4b439c9149390b87a223"
+    documentation="Type of BeneficiaryGroup"/>

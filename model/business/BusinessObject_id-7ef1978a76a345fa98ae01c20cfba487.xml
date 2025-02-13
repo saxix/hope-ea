@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EligiblePopulation"
-    id="id-7ef1978a76a345fa98ae01c20cfba487"/>
+    id="id-7ef1978a76a345fa98ae01c20cfba487"
+    documentation="Program Popuplation that match the EligibilityCriteria"/>

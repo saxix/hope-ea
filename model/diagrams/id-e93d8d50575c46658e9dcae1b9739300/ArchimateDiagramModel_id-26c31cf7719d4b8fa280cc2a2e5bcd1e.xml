@@ -28,7 +28,7 @@
     <bounds
         x="116"
         y="108"
-        width="286"
+        width="245"
         height="80"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -49,8 +49,8 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="264"
-        width="289"
+        y="240"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -62,8 +62,8 @@
       targetConnections="id-13629c15c9344db29fc69acca34c35e7 id-eef1353985df452a8d1ad38aa87edd36">
     <bounds
         x="118"
-        y="396"
-        width="293"
+        y="360"
+        width="243"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -93,8 +93,8 @@
     </sourceConnections>
     <bounds
         x="118"
-        y="516"
-        width="293"
+        y="480"
+        width="243"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -106,8 +106,8 @@
       targetConnections="id-b5bb9efdcd7748ffb054b681fbd8e355">
     <bounds
         x="120"
-        y="660"
-        width="289"
+        y="600"
+        width="241"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -127,8 +127,8 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="516"
-        width="217"
+        y="480"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -140,9 +140,9 @@
       targetConnections="id-a0048663a5004816a5bdcfb7f564603b"
       fillColor="#9eff42">
     <bounds
-        x="540"
+        x="492"
         y="108"
-        width="205"
+        width="181"
         height="80"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"

@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beneficiary"
-    id="id-7b69120dce824535b37af01aa8f16a7d"/>
+    id="id-7b69120dce824535b37af01aa8f16a7d"
+    documentation="A person that receive or could receive assistance"/>

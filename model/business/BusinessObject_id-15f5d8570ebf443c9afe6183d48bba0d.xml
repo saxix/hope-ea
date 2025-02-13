@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EligibilityCriteria"
-    id="id-15f5d8570ebf443c9afe6183d48bba0d"/>
+    id="id-15f5d8570ebf443c9afe6183d48bba0d"
+    documentation="Rules that a Beneficiary needs to match to be eligible for a specific Programme"/>

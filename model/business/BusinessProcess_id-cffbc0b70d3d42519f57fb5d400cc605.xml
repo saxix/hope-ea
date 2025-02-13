@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deduplication"
-    id="id-cffbc0b70d3d42519f57fb5d400cc605"/>
+    id="id-cffbc0b70d3d42519f57fb5d400cc605"
+    documentation="Exercise to match duplicates people inside one or more Programmes"/>
