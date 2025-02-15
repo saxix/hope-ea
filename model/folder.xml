@@ -10,4 +10,8 @@
   <properties
       key="Documentation"
       value="https://unicef.github.io/hope-documentation/"/>
+  <profiles
+      name="Specialization 1"
+      id="id-a77311990dad405fb7bcc12ffeed55ff"
+      conceptType="BusinessActor"/>
 </archimate:ArchimateModel>

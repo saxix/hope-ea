@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AlternativeCollector"
-    id="id-79b3db5cdac9407bb4b6edd80c0dc1b1"/>
+    id="id-79b3db5cdac9407bb4b6edd80c0dc1b1"
+    documentation="Person that physically receive the aid. HOPE manages different types of Collectors depending on the role and the relationship with the Household&#xA;&#xA;"/>
