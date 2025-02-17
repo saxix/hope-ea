@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>AccountType</title>
+	<title></title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,11 +21,10 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>AccountType</b>
-
+               <b class="i18n-elementtype-DiagramModelNote"></b>
             <!-- If a View with Viewpoint -->
-			   (<span class="i18n-elementtype-DataObject"></span>)
-			   <a class="glyphicon glyphicon-info-sign" id="hint-DataObject" target="hint"></a>
+			   (<span class="i18n-elementtype-DiagramModelNote"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelNote" target="hint"></a>
 		</div>
 
 		<div class="panel-body root-panel-body">
@@ -35,20 +34,22 @@
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
                     <!-- Purpose / Documentation / Content -->
-					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+                       <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-content"></a></li>
 
                     <!-- Properties -->
                     <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
 
                     <!-- Analysis -->
-                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
 
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">- Bank
+- Card
+- Mobile
+- ...</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -72,10 +73,6 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr id="used-in-views-id-f34beaf9d49d4eb79e9ecf1fcb54ecbc">
-																	<td><a href="../views/id-f34beaf9d49d4eb79e9ecf1fcb54ecbc.html" target="view" title="Wallet"> Wallet </a></td>
-																	<td><span class="i18n-viewpoint-application_structure" /></td>
-																</tr>
 							</tbody>
 						</table>
 						<table class="table table-striped table-hover table-condensed" id="model-relations">
@@ -89,17 +86,6 @@
 								</tr>
 							</thead>
 							<tbody>
-									<tr>
-											<td><a href="../elements/id-1beee725a0924ad9923509defaa6821b.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-e698c66f908844abbea6befae32d1ae0.html" target="element"> AccountType</a></td>
-											<td><a href="../elements/id-0bf6a384a81e44aab0acd730832849e0.html" target="element"> Account</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-a1693177201c497283b7d1b76cfb7d95.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-e698c66f908844abbea6befae32d1ae0.html" target="element"> AccountType</a></td>
-											<td><a href="../elements/id-8a838faedaeb43e1bde47e634832c77b.html" target="element"> DeliveryMechanism</a></td>
-										</tr>
 							</tbody>
 						</table>
 					</div>
