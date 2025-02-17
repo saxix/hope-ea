@@ -83,6 +83,10 @@
 													<li class="tree-element "><a href="1be9ea84/elements/id-14a1a61fc87a45d9818e170d5674e9ef.html" target="element"> Programme </a></li>
 													<li class="tree-element "><a href="1be9ea84/elements/id-8e80b80216df41e8b06ab71ecfc6a0e7.html" target="element"> School </a></li>
 													<li class="tree-element "><a href="1be9ea84/elements/id-15f5d8570ebf443c9afe6183d48bba0d.html" target="element"> EligibilityCriteria </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-cb283226778f4e06afd19b2b1611371d.html" target="element"> BusinessArea </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-56f6c992e50a4527b3224d8c0b7c6dab.html" target="element"> Collector </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-f6a755cd0dec448f84580a10330d6830.html" target="element"> DeliveryMechanism </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-d5c132f1b0694d7481d54a5ba752dfe3.html" target="element"> Person </a></li>
 
 									</ul>
 								</li>
@@ -98,6 +102,13 @@
 													<li class="tree-element "><a href="1be9ea84/elements/id-cdf623df3494421687218e46e6025a0c.html" target="element"> GroupRepresentation </a></li>
 													<li class="tree-element "><a href="1be9ea84/elements/id-daebe85c8ede47f78d5910573c7cbf44.html" target="element"> Individual Representation </a></li>
 													<li class="tree-element "><a href="1be9ea84/elements/id-0de4cc9925874d84940042e8bba6589c.html" target="element"> Household </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-0bf6a384a81e44aab0acd730832849e0.html" target="element"> Wallet </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-8a838faedaeb43e1bde47e634832c77b.html" target="element"> DeliveryMechanism </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-2f2307ffd54d4b9cbf4f78a680f602c2.html" target="element"> FSP </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-a950e4651e99403aa832033cafff2672.html" target="element"> Collector </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-b20e3b8f57fb4660a7c12847e15a6424.html" target="element"> DeliveryMechanismConfig </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-e698c66f908844abbea6befae32d1ae0.html" target="element"> AccountType </a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-86b5161d6fa94641b3d18900e5d182bb.html" target="element"> Person </a></li>
 
 									</ul>
 								</li>
@@ -254,6 +265,62 @@
 															<span class="i18n-elementtype-FlowRelationship"></span>
 														(Targeting - Junction) 
 													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-3b005db032e44df587ecc4e4e7513f69.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(Collector - AlternativeCollector) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-e5e0290758ea45e19639fb4b6e7c543a.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(PrimaryCollector - Collector) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-60f2897fa824460f8501e2687c8c4562.html" target="element">
+															<span class="i18n-elementtype-CompositionRelationship"></span>
+														(FSP - DeliveryMechanismConfig) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-b878ca4d66f84c129e9e9a6da08adc69.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(DeliveryMechanismConfig - DeliveryMechanism) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-54b06dfc8aba4afaad9312579bd5402e.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(Beneficiary - Collector) 
+													</a></li>
+													<li class="tree-element  "><a href="1be9ea84/elements/id-2cec79f38e9e478b986374a35a486da6.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(Wallet - DeliveryMechanism) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-1beee725a0924ad9923509defaa6821b.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(AccountType - Wallet) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-ec6b0f527655483c83afd40d45603e8c.html" target="element">
+															<span class="i18n-elementtype-SpecializationRelationship"></span>
+														(Beneficiary - Person) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-7ba97c84bc5043fbac07a1fd6e4186e2.html" target="element">
+															<span class="i18n-elementtype-CompositionRelationship"></span>
+														(Person - Wallet) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-e0e02378e7e4466596ac68b08facd89e.html" target="element">
+															<span class="i18n-elementtype-SpecializationRelationship"></span>
+														(Beneficiary - Person) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-677306338eeb4a7c918d12f26bb4781a.html" target="element">
+															<span class="i18n-elementtype-SpecializationRelationship"></span>
+														(Collector - Person) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-8f1e9ce1c4864388a2ffcff2132195c7.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(Collector - Collector) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-f9fa67d45b9b41fcbfafa451f63d4069.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(BeneficiaryGroup - Collector) 
+													</a></li>
+													<li class="tree-element "><a href="1be9ea84/elements/id-e41f1452b8504f4aab99e8f79498529b.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(BeneficiaryGroup - GroupRepresentation) 
+													</a></li>
 
 									</ul>
 								</li>
@@ -264,7 +331,7 @@
 								<li class="tree-folder "><span><i class="glyphicon glyphicon-triangle-right"></i> Business </span>
 									<ul>
 													<li class="tree-element "><a href="1be9ea84/views/id-26c31cf7719d4b8fa280cc2a2e5bcd1e.html" target="view"> Populations </a></li>
-													<li class="tree-element "><a href="1be9ea84/views/id-cdc2dc826b1d4fcc80ac8348ae987876.html" target="view"> New ArchiMate View </a></li>
+													<li class="tree-element "><a href="1be9ea84/views/id-cdc2dc826b1d4fcc80ac8348ae987876.html" target="view"> BusinessProcess </a></li>
 													<li class="tree-element "><a href="1be9ea84/views/id-03ae32feaf6f493aa6a25419652b681e.html" target="view"> BeneficiaryRelations </a></li>
 													<li class="tree-element "><a href="1be9ea84/views/id-fe69a2338e964c219025a86e12118d23.html" target="view"> Payments </a></li>
 
@@ -272,6 +339,8 @@
 									</li><li class="tree-folder "><span><i class="glyphicon glyphicon-triangle-right"></i> Application </span>
 									<ul>
 													<li class="tree-element "><a href="1be9ea84/views/id-f97ff89955ce440fa88137ecf4740b80.html" target="view"> Beneficiaries </a></li>
+													<li class="tree-element "><a href="1be9ea84/views/id-f34beaf9d49d4eb79e9ecf1fcb54ecbc.html" target="view"> Wallet </a></li>
+													<li class="tree-element "><a href="1be9ea84/views/id-5dc21be3f2b741a49cce249eebc1ffa9.html" target="view"> People </a></li>
 
 									</ul>
 									</li>
